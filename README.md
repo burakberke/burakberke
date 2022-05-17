@@ -5,3 +5,5 @@ I'm improving myself in devops engineer.
 
 [linkedin](https://www.linkedin.com/in/burak-berke-canakli/)
 
+burakberkecanakli@gmail.com
+
