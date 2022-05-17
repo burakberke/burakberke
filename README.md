@@ -3,5 +3,5 @@
 I am Burak Berke Canakli, i am a 4th year mechatronics engineering student at izmir katip celebi university.
 I'm improving myself in devops engineer.
 
-[https://www.linkedin.com/in/burak-berke-canakli/]
+[linkedin](https://www.linkedin.com/in/burak-berke-canakli/)
 
